@@ -297,9 +297,3 @@ public class DomaciYamb extends Application
     }
     
 }
-
-/*
-radio dugme za promenu boje
-dva checkboxa, bold italic, sta se izabere , takav je tekst
-i dugme za pomeranje teksta levo i desno
-*/
